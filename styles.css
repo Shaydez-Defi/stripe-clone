@@ -21,8 +21,8 @@ body {
   clip-path: polygon(
     0 0,
     100% 0,
-    100% 48%,
-    0 58%
+    100% 45%,
+    0 55%
   );
   background-size: 1200% 1200%;
   animation: gradientFlow 50s ease infinite;
