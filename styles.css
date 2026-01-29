@@ -4,11 +4,11 @@ body {
   color: #0a2540;
 }
 
-.container {
+/*.container {
   border: solid 0.9px rgba(43, 42, 42, 0.9);
   overflow: visible;
   padding: 0 1.1rem;
-}
+}*/
 
 .hero {
   margin: 0;
@@ -40,8 +40,8 @@ body {
   clip-path: polygon(
     0 0,
     100% 0,
-    100% 41%,
-    0 56%
+    100% 59%,
+    0 70%
   );
   background-size: 1200% 1200%;
   animation: gradientFlow 50s ease infinite;
