@@ -40,8 +40,8 @@ body {
   clip-path: polygon(
     0 0,
     100% 0,
-    100% 45%,
-    0 55%
+    100% 48%,
+    0 58%
   );
   background-size: 1200% 1200%;
   animation: gradientFlow 50s ease infinite;
@@ -1060,6 +1060,7 @@ footer h5 {
   grid-column: 7 / span 6;
   line-height: 2;
   padding-left: 2rem;
+  padding-top: 2rem;
 }
 
 .developers,
