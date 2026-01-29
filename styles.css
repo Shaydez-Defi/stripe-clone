@@ -40,8 +40,8 @@ body {
   clip-path: polygon(
     0 0,
     100% 0,
-    100% 55%,
-    0 65%
+    100% 45%,
+    0 55%
   );
   background-size: 1200% 1200%;
   animation: gradientFlow 50s ease infinite;
@@ -181,7 +181,6 @@ span {
 .heading {
   font-size: 3.3rem;
   font-weight: 700;
-  max-width: 25rem;
   color: #0a2540;
   opacity: 0.9;
   margin: 0;
