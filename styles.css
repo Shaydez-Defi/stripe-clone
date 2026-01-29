@@ -1075,12 +1075,14 @@ footer h5 {
 .resources {
   grid-column: span 12 ;
   padding-right: 2rem;
-  display: inline-block
+  display: inline-block;
+  line-height: 2;
 }
 
 .support {
   grid-column: span 12;
   padding-top: 1.2rem;
+  line-height: 2;
 }
 
 footer p {
