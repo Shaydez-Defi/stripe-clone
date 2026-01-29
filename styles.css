@@ -40,8 +40,8 @@ body {
   clip-path: polygon(
     0 0,
     100% 0,
-    100% 43%,
-    0 61%
+    100% 41%,
+    0 56%
   );
   background-size: 1200% 1200%;
   animation: gradientFlow 50s ease infinite;
